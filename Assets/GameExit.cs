@@ -5,7 +5,6 @@ using UnityEngine;
 public class GameExit : MonoBehaviour {
 
 	public void SalirJuego () {
-		Debug.Log("Salir del puñetero juego");
-   	}
-
+        Application.Quit();
+ 	}
 }
