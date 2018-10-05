@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{353B46CE-4E45-7032-9660-FC67798A094C}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NuevaPartida.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NuevaPartida.cs">
     <Files>
-      <File FileName="Assets/NuevaPartida.cs" Line="8" Column="56" />
+      <File FileName="Assets/Scripts/StroyFiller.cs" Line="25" Column="20" />
+      <File FileName="Assets/Scripts/GameplayManager.cs" Line="22" Column="19" />
+      <File FileName="Assets/Scripts/NuevaPartida.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/davidmendano/Unity/Choose your own adventure/Assets/Scripts/GameplayManager.cs" relfile="Assets/Scripts/GameplayManager.cs" line="21" column="34" />
+      <Breakpoint file="/Users/davidmendano/Unity/Choose your own adventure/Assets/Scripts/NuevaPartida.cs" relfile="Assets/Scripts/NuevaPartida.cs" line="11" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
