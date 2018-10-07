@@ -3,7 +3,6 @@ PlayerPath?
 /Users/davidmendano/Unity/Choose your own adventure/executable.app
 SceneListBegin?
 Assets/Scenes/Pantalla inicial.unity
-Assets/Scenes/Partida Nueva.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown

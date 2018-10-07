@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Pantalla inicial.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Partida Nueva.unity
-    guid: 1d2ed496a448c40a3a524533a85ba62c
+    path: Assets/Scenes/Pantalla juego.unity
+    guid: 2abd05e9c04c141b4aad7528874fe0d2
+  - enabled: 1
+    path: Assets/Scenes/Pantalla fin.unity
+    guid: 7568eb3ae88a94cd6adbacf184a0f745
   m_configObjects: {}
