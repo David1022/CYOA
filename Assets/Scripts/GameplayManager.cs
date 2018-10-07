@@ -35,12 +35,12 @@ public class GameplayManager : MonoBehaviour {
     }
 
     void FillUI() {
-        historyText.text += "/n" + "\n" + current.history;
+        historyText.text += "\n" + "\n" + current.history;
         foreach(Transform child in answersParent.transform) {
             Destroy(child.gameObject);
         }
         bool isLeft = true;
-        float height = 50;
+        float height = -50;
         int index = 0;
 
         foreach(string answer in current.answers) {
@@ -50,7 +50,7 @@ public class GameplayManager : MonoBehaviour {
             buttonAnswerCopy.GetComponent<RectTransform>().localPosition = new Vector3(isLeft ? x : -x, height, 0);
 
             if (!isLeft) {
-                height += buttonAnswerCopy.GetComponent<RectTransform>().rect.y * 2.5f;
+                height += buttonAnswerCopy.GetComponent<RectTransform>().rect.y * 2f;
             }
 
             isLeft = !isLeft;

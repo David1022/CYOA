@@ -3,15 +3,16 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NuevaPartida.cs">
     <Files>
       <File FileName="Assets/Scripts/StroyFiller.cs" Line="25" Column="20" />
-      <File FileName="Assets/Scripts/GameplayManager.cs" Line="22" Column="19" />
-      <File FileName="Assets/Scripts/NuevaPartida.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/GameplayManager.cs" Line="53" Column="84" />
+      <File FileName="Assets/Scripts/NuevaPartida.cs" Line="8" Column="57" />
+      <File FileName="Assets/Scripts/VolverInicio.cs" Line="10" Column="11" />
+      <File FileName="Assets/Scripts/GameExit.cs" Line="9" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/davidmendano/Unity/Choose your own adventure/Assets/Scripts/GameplayManager.cs" relfile="Assets/Scripts/GameplayManager.cs" line="21" column="34" />
-      <Breakpoint file="/Users/davidmendano/Unity/Choose your own adventure/Assets/Scripts/NuevaPartida.cs" relfile="Assets/Scripts/NuevaPartida.cs" line="11" column="1" />
+      <Breakpoint file="/Users/davidmendano/Unity/Choose your own adventure/Assets/Scripts/GameplayManager.cs" relfile="Assets/Scripts/GameplayManager.cs" line="38" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

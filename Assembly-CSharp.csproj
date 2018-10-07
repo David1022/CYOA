@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\GameplayManager.cs" />
     <Compile Include="Assets\Scripts\NuevaPartida.cs" />
     <Compile Include="Assets\Scripts\StroyFiller.cs" />
+    <Compile Include="Assets\Scripts\VolverInicio.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/davidmendano/Unity/Choose your own adventure/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
